@@ -1,3 +1,4 @@
-#simple python script for deleting your repos
+
+Simple python script for deleting your personal repos 
 
 `` python command.py ``
